@@ -123,7 +123,7 @@ hr {
 	background-color: #6aaf08;
 }
 .section-title {
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 }
 .section-title p {
 	font-size: 18px;
@@ -207,7 +207,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-	padding: 60px 0;
+	padding: 50px 0 0 0;
 	background: #f6f6f6;
 }
 #about h3 {
@@ -283,7 +283,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 100px 0;
+	padding: 0 0 50px 0;
 	background: #f6f6f6;
 }
 .categories {
